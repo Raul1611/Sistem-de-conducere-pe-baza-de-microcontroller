@@ -9,7 +9,7 @@ Sistem de conducere pe baza de microcontroller ce efectueaza diferite functii:
 
 4. Va aprinde un LED cu efect de dimming. Pentru aceasta se va utiliza semnal PWM cu următorul scenariu de durata 4 secunde rulat in bucla repetitiva. Scenariul împărțit pe cele 4 secunde este după cum urmează:
 
-LED-ul va efectua un efect de FADE IN liniar pe durata unei secunde.
+  LED-ul va efectua un efect de FADE IN liniar pe durata unei secunde.
  - Va sta aprins pe durata unei secunde.
  - Va efectua un efect de FADE OUT liniar pe durata unei secunde.
  - Va sta stins o secunda.
